@@ -1,5 +1,17 @@
 <h1 align="center">Hi 👋, I'm Trần Huy Tú</h1>
-<h3 align="center">A passionate frontend developer from Vie Nam</h3>
+<h3 align="center">A passionate frontend developer from Viet Nam</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=huytuchim789&label=Profile%20views&color=0e75b6&style=flat" alt="huytuchim789" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huytuchim789" alt="huytuchim789" /></a> </p>
+
+- 🔭 I’m currently working on **Ekoios Technology**
+
+- 🌱 I’m currently learning **Blockchain**
+
+- 👯 I’m looking to collaborate on **Facebook**
+
+- 🤝 I’m looking for help with **Facebook**
 
 - 👨‍💻 All of my projects are available at [https://github.com/huytuchim789?tab=repositories](https://github.com/huytuchim789?tab=repositories)
 
@@ -7,9 +19,9 @@
 
 - 💬 Ask me about **ReactJS,Laravel**
 
-- 📫 How to reach me **tranhuytu242000@gmail.com**
+- 📫 How to reach me **https://www.facebook.com/tu.huy.3705/**
 
-- ⚡ Fun fact **Football Lol,Fifa,Pes**
+- ⚡ Fun fact **Football Lol, Fifa, Pes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,3 +35,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huytuchim789&show_icons=true&locale=en&layout=compact" alt="huytuchim789" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huytuchim789&show_icons=true&locale=en" alt="huytuchim789" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huytuchim789&" alt="huytuchim789" /></p>
