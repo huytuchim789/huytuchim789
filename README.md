@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huytuchim789" alt="huytuchim789" /></a> </p>
 
-- 🔭 I’m currently working on **Ekoios Technology**
+- 🔭 I’m currently working on **Zinza Technology**
 
 - 🌱 I’m currently learning **Blockchain**
 
