@@ -14,9 +14,7 @@
 - 🤝 I’m looking for help with **Facebook**
 
 - 👨‍💻 All of my projects are available at [https://github.com/huytuchim789?tab=repositories](https://github.com/huytuchim789?tab=repositories)
-
-- 📝 I regularly write articles on [https://viblo.asia/p/huong-dan-lam-chuc-nang-dang-ky-tai-khoang-bang-cach-xac-thuc-email-voi-ma-otp-giong-nhu-facebook-bang-laravel-8x-1VgZvQWOKAw](https://viblo.asia/p/huong-dan-lam-chuc-nang-dang-ky-tai-khoang-bang-cach-xac-thuc-email-voi-ma-otp-giong-nhu-facebook-bang-laravel-8x-1VgZvQWOKAw)
-
+- 
 - 💬 Ask me about **ReactJS,Laravel**
 
 - 📫 How to reach me **https://www.facebook.com/tu.huy.3705/**
