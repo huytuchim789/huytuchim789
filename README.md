@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Money Forward Japan**
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **Java**
 
 - 👯 I’m looking to collaborate on **Facebook**
 
