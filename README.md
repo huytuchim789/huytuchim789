@@ -9,12 +9,8 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on **Facebook**
-
-- 🤝 I’m looking for help with **Facebook**
-
 - 👨‍💻 All of my projects are available at [https://github.com/huytuchim789?tab=repositories](https://github.com/huytuchim789?tab=repositories)
-- 
+
 - 💬 Ask me about **ReactJS,Laravel**
 
 - 📫 How to reach me **https://www.facebook.com/tu.huy.3705/**
